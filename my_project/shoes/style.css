@@ -1,0 +1,82 @@
+.logo {
+    font-size: 50px;
+    color: red;
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: yellow;
+}
+.shoes {
+    margin-left: 100px;
+    color: green;
+    text-decoration: none;
+}
+.clothes {
+    margin-left: 30px;
+    color: black;
+}
+.handbag {
+    margin-left: 30px;
+    color: black;
+}
+.user_account {
+    margin-top: -55px;
+    margin-left: 500px;
+}
+.avatar {
+    height: 50px;
+    width: 50px;
+}
+.user_name {
+    font-size: 20px;
+}
+.cart_box {
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+.classCell .cartBox {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px''
+}
+.cart_number {
+    padding: 0 8px;
+    line-height: 16px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #e62e04;
+    color: #fff;
+}
+
+.classCell {
+    width: 1000px;
+    height: 330px;
+    margin: 50px;
+    overflow: hidden;
+}
+.classCell img {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+.classCell span {
+    font-size: 20px;
+    margin: 30px;
+}
+
+.classPage {
+    margin-left: 10px;
+}
+.classPage a {
+    float: left;
+    display: inline;
+    margin: 0 5px 0 0;
+    padding: 8px 11px;
+    font-size: 14px;
+    color: #06c;
+    line-height: 14px;
+    overflow: hidden;
+    text-decoration: none;
+    background: linear-gradient(#FFF,#F6F6F6);
+    border: 1px solid #d3d3d4;
+}
